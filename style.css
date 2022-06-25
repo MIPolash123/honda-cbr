@@ -113,19 +113,15 @@ body{
         margin: 2%;
         padding-bottom: 2%;
        
-    } 
-    .container-last{
-        background-color: black;
-        color: white;
-    }
+    
      
     footer{
-      font-size: medium;
-      color:black;
+      font-size:large;
+      background-color: black;
+      color:white;
       text-align:center;
       text-justify: center;
       height: 200px;
-      width: inherit;
       margin-left: 30px;
       margin-right: 10px;
     

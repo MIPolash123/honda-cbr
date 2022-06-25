@@ -122,10 +122,12 @@ body{
     footer{
       font-size: medium;
       color:black;
-      text-align:initial;
-      text-justify: initial;
-      height: 100px;
+      text-align:center;
+      text-justify: center;
+      height: 200px;
       width: inherit;
+      margin-left: 30px;
+      margin-right: 10px;
     
     }
     

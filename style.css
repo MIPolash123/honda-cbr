@@ -116,14 +116,9 @@ body{
     
      
     footer{
-      font-size:large;
-      color:black;
-      text-align:center;
-      text-justify: center;
-      height: 200px;
-      margin-left: 30px;
-      margin-right: 10px;
-    
+      font-size:small;
+      bacground-color:black;
+      text-align: center;
     }
     
     

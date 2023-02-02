@@ -115,10 +115,10 @@ body{
     }
     footer{
         background-color: black;
-    
-    }
+        color: white;
+        }
+
     .logo{
-        width: 50%;
+        size: 5px;
+        width: 5px;
     }
-       
-    

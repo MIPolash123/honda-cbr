@@ -114,8 +114,11 @@ body{
         padding-bottom: 2%;
     }
     footer{
-        color: black;
+        background-color: black;
     
+    }
+    .logo{
+        width: 50%;
     }
        
     

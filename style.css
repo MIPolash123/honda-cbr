@@ -112,14 +112,10 @@ body{
         padding:4%;
         margin: 2%;
         padding-bottom: 2%;
-       
-    
-     
-    footer{
-      font-size:small;
-      bacground-color:black;
-      text-align: center;
-      background-color:read-write;
     }
+    footer{
+        color: black;
     
+    }
+       
     

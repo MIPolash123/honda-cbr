@@ -115,10 +115,11 @@ body{
        
     
      
-    footer{
+    .footer{
       font-size:small;
       bacground-color:black;
       text-align: center;
+      color: black;
     }
     
     

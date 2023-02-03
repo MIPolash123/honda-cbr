@@ -116,9 +116,6 @@ body{
     footer{
         background-color: black;
         color: white;
+        padding: 4px;
+        margin: 3px;
         }
-
-    .logo{
-        size: 5px;
-        width: 5px;
-    }
